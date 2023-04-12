@@ -10,4 +10,4 @@ const ShoppingCart = (props) => {
     );
 };
 
-export default ShoppingCart;y
+export default ShoppingCart;
